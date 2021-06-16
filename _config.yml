@@ -2,8 +2,8 @@
 # Site Settings
 # -----------------------------------------------------------------------------
 
-name: Lei Xiong
-email: jsxlei@gmail.com
+name: Xuxin Tang
+email: tangxuxin_mail@163.com
 
 # footer_text: >
 #   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -16,12 +16,9 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social Integration
 # -----------------------------------------------------------------------------
-scholar_userid: ky6bUTgAAAAJ&hl
-github_username: jsxlei
-orcid_id: http://orcid.org/0000-0002-2392-114X
-linkedin_username: lei-xiong-6776a410b
-facebook_username: jsxlei
-twitter_username: jsxlei
+scholar_userid: 2mxFqi0AAAAJ
+linkedin_username: xuxin-tang-45a27484
+facebook_username: 
 contact_note: Feel free to drop me a line via e-mail.
 
 
@@ -86,7 +83,7 @@ plugins:
 
 # Jekyll-Scholar
 scholar:
-  last_name: Xiong
+  last_name: Tang
   style: apa
   locale: en
   sort_by: year

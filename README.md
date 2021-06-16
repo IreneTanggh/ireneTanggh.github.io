@@ -1,6 +1,6 @@
-# Lei Xiong's personal webpage
+# Xuxin Tang's personal webpage
 
-This is the personal website of Lei Xiong, which can be visualized at [https://jsxlei.github.io/](https://jsxlei.github.io/).
+This is the personal website of Xuxin Tang, which can be visualized at [https://irene_Tang93.github.io/](https://irene_Tang93.github.io/).
 
 ## How to use this template for your website
 

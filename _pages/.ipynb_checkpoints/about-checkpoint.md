@@ -3,12 +3,10 @@ layout: page
 permalink: /
 title: about
 nav: about
-description: <a class="page-description" target="_blank">Computational Biology</a> • <a href="http://life.tsinghua.edu.cn/" class="page-description" target="_blank">School of Life Sciences</a> • <a href="http://tsinghua.edu.cn/" class="page-description" target="_blank">Tsinghua University</a>
-address: <a href="https://www.google.com/maps/place/Biology+Building+of+Hall/@40.0027011,116.3177901,16z/data=!4m8!1m2!2m1!1z5riF5Y2O5aSn5a2mIOeUn-eJqeWMu-Wtpummhg!3m4!1s0x35f056a19b14bb3b:0xe54d0d0aeaf8c544!8m2!3d40.003354!4d116.31989?hl=en" class="page-description" target="_blank">Biomedical Building, Tsinghua University, Haidian District, Beijing, China</a>
 ---
 
 <div class="col p-0 pt-4 pb-4">
-  <h1 class="pb-3 title text-left font-weight-bold">Lei Xiong</h1>
+  <h1 class="pb-3 title text-left font-weight-bold">Xuxin Tang</h1>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.description }}</h6>
   {% if page.address %}
       <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.address }}</h6>
@@ -24,39 +22,19 @@ address: <a href="https://www.google.com/maps/place/Biology+Building+of+Hall/@40
         </div>
 
         <p>
-            I recieved my Ph.D. in Computational Biology at <a href="http://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a> advised by <a href="http://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm" target="_blank">Prof. Qiangfeng Cliff Zhang</a>. 
+            I received my master and bachelor degree at <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a> co-advised by Prof. Zhijiang Li and <a href="http://www.mit.edu/~f_zhang/" target="_blank">Prof. Fan Zhang</a>. 
         </p>
         
         <p>
-            My PhD research focuses on developing artificial intelligence tool for analysis of single-cell RNA-seq and ATAC-seq data to uncover gene regulation in cell heterogeneity. <br />
-            I am also passionate about applying network analysis methods. Previously, I did some research in structural protein-protein interaction (PPI) network to find out structural modules enriching cancer mutations and drug targets. <br />
-            I have a broad interest in applying artificial intelligence algorithm to solve biological questions.
+            I have a great passion for studying on big data concerning fields, including data analytics, data visualization, artificial intelligence and human AI/data interaction. <br />
+        </p>
+        <p>
+            I have nearly 3-year industry experience. At most time I worked as a recommendation algorithm engineer for YY Live, Chinese top 1 live broadcasting company. The job duty is deciding which real-time contents are delivered to customers, composed of building models, daily data analytics and data visualization.
+            </p>
+        <p>
+            My master research mainly focused on cloud computing, auto-scaling container and image processing. The thesis of container has some cites. Additionally, because of my personal interests, I also participated in and got good rankings in some AI competitions.<br/>
         </p>
     </div>
-</div>
-
-<div class="col text-justify p-0">
-    <p>
-        Before I joined Tsinghua, I graduated with a B.A. in Biology at <a href="https://www.ustc.edu.cn" target="_blank" >University of Science and Technology of China</a> and my B.A. thesis was supervised by <a href="https://molbio.princeton.edu/people/nieng-yan" target="_blank">Prof. Nieng Yan</a>.
-    </p>
-</div>
-
-<!-- News -->
-<div class="news mt-3 p-0">
-  <h1 class="title mb-4 p-0">news</h1>
-  {% assign news = site.news | reverse %}
-  {% for item in news limit: site.news_limit %}
-    <div class="row p-0">
-      <div class="col-sm-2 p-0">
-        <span class="badge light-green darken-1 font-weight-bold text-uppercase align-middle date ml-3">
-          {{ item.date | date: "%b %-d, %Y" }}
-        </span>
-      </div>
-      <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-        <p>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</p>
-      </div>
-    </div>
-  {% endfor %}
 </div>
 
 <!-- Selected publications -->
@@ -64,3 +42,4 @@ address: <a href="https://www.google.com/maps/place/Biology+Building+of+Hall/@40
   <h1 class="title mb-4 p-0">selected publications</h1>
   {% bibliography -f papers -q @*[selected=true]* %}
 </div>
+
