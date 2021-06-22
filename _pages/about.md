@@ -26,13 +26,13 @@ nav: about
         </p>
         
         <p>
-            I have a great passion for studying on big data concerning fields, including data analytics, data visualization, artificial intelligence and human AI/data interaction. <br />
+            I have a great passion for studying big data concerning fields, including data analytics, data visualization, artificial intelligence and human AI/data interaction. <br />
         </p>
         <p>
-            I have nearly 3-year industry experience. At most time I worked as a recommendation algorithm engineer for YY Live, Chinese top 1 live broadcasting company. The job duty is deciding which real-time contents are delivered to customers, composed of building models, daily data analytics and data visualization.
+            I have nearly 3-year industry experience. At the most time I worked as a recommendation algorithm engineer for YY Live, the Chinese top 1 live broadcasting company. The job duty is deciding which real-time contents are delivered to customers, composed of building models, daily data analytics and data visualization.
             </p>
         <p>
-            My master research mainly focused on cloud computing, auto-scaling container and image processing. The thesis of container has some cites. Additionally, because of my personal interests, I also participated in and got good rankings in some AI competitions.<br/>
+            My master's research mainly focused on cloud computing, auto-scaling container and image processing. The thesis of the container has some cites. Additionally, because of my personal interests, I also participated in and got good rankings in some AI competitions.<br/>
         </p>
     </div>
 </div>
