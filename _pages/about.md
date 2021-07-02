@@ -22,17 +22,18 @@ nav: about
         </div>
 
         <p>
-            I received my master and bachelor degree at <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a> co-advised by Prof. Zhijiang Li and <a href="http://www.mit.edu/~f_zhang/" target="_blank">Prof. Fan Zhang</a>. 
+            I received my Master and Bachelor's Degree at <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a> where I was co-advised by Prof. Zhijiang Li and <a href="http://www.mit.edu/~f_zhang/" target="_blank">Prof. Fan Zhang</a>. 
         </p>
         
         <p>
-            I have a great passion for studying big data concerning fields, including data analytics, data visualization, artificial intelligence and human AI/data interaction. <br />
+            I have a great passion for studying and solving big data problems, including data analytics, data visualization, artificial intelligence and human AI/data interaction. <br />
         </p>
         <p>
-            I have nearly 3-year industry experience. At the most time I worked as a recommendation algorithm engineer for YY Live, the Chinese top 1 live broadcasting company. The job duty is deciding which real-time contents are delivered to customers, composed of building models, daily data analytics and data visualization.
+            I have nearly 3-year industry experience. For the most time I worked as a recommendation algorithm engineer for YY Live, the top 1 live broadcasting company in China. My job responsibilities involve sifting through real-time contents to be delivered to customers, building models, analyzing data and data visualization on a daily basis.
             </p>
         <p>
-            My master's research mainly focused on cloud computing, auto-scaling container and image processing. The thesis of the container has some cites. Additionally, because of my personal interests, I also participated in and got good rankings in some AI competitions.<br/>
+            My master's research mainly focused on cloud computing, auto-scaling container and image processing. The auto-scaling thesis is acknowledged and cited in academia. Additionally, I participated in and got good rankings in some AI competitions.
+    <br/>
         </p>
     </div>
 </div>
