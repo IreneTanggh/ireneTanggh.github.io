@@ -1,6 +1,6 @@
 # Xuxin Tang's personal webpage
 
-This is the personal website of Xuxin Tang, which can be visualized at [https://irene_Tang93.github.io/](https://irene_Tang93.github.io/).
+This is the personal website of Xuxin Tang, which can be visualized at [https://ireneTanggh.github.io/](https://ireneTanggh.github.io/).
 
 ## How to use this template for your website
 
